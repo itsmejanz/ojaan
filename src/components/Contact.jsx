@@ -4,7 +4,7 @@ import { IconSend } from '@tabler/icons-react';
 import { useTranslation } from 'react-i18next';
 
 export default function Contact({ isDark }) {
-    const recipientEmail = 'rifki.coding@gmail.com';
+    const recipientEmail = 'ojanxsec@gmail.com';
     const [subject, setSubject] = useState('');
     const [message, setMessage] = useState('');
     const [email, setEmail] = useState('');
