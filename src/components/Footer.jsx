@@ -17,21 +17,21 @@ export default function Footer() {
                 <div className='flex gap-2 md:py-3 py-4'>
                     <a
                         className='hover:text-secondary transition-all duration-300 ease-linear'
-                        href='https://www.instagram.com/mchdrfki/'
+                        href='https://www.instagram.com/ojan.codes/'
                         target='_blank'
                         rel='noopener noreferrer'>
                         <IconBrandInstagram size={26} stroke={1} />
                     </a>
                     <a
                         className='hover:text-secondary transition-all duration-300 ease-linear'
-                        href='https://x.com/rickmauland'
+                        href='https://x.com/ojanxsec'
                         target='_blank'
                         rel='noopener noreferrer'>
                         <IconBrandX size={26} stroke={1} />
                     </a>
                     <a
                         className='hover:text-secondary transition-all duration-300 ease-linear'
-                        href='https://web.facebook.com/mchdrfky/'
+                        href='#'
                         target='_blank'
                         rel='noopener noreferrer'>
                         <IconBrandFacebook size={26} stroke={1} />
@@ -46,7 +46,7 @@ export default function Footer() {
 
                     <a
                         className='hover:text-secondary transition-all duration-300 ease-linear'
-                        href='https://github.com/kiisanz'
+                        href='https://github.com/ojanteamx'
                         target='_blank'
                         rel='noopener noreferrer'>
                         <IconBrandGithub size={26} stroke={1} />
