@@ -1,96 +1,95 @@
 {
     "navigation": {
-        "brand": "./rifkimaulana",
         "home": "Beranda",
-        "about": "Tentang saya",
+        "about": "Tentang Saya",
         "projects": "Proyek",
         "blog": "Blog",
-        "getInTouch": "Hubungi kami"
+        "getInTouch": "Hubungi Saya",
+        "brand": "./ojaan"
     },
     "heroSection": {
         "HeroText": "DEVELOPER FULL-STACK.",
         "tech": "{ Node JS, Tailwind CSS, NextJS, MongoDB, ReactJS, MySQL... }",
-        "intro": "Spesialisasi dalam MERN Stack. Saya memanfaatkan teknologi terkini untuk menghidupkan proyek web.",
-        "seeMyWorksBtn": "Lihat proyek",
+        "intro": "Spesialisasi di MERN Stack. Saya memanfaatkan teknologi mutakhir untuk mewujudkan proyek web.",
+        "seeMyWorksBtn": "Lihat karya saya",
         "downloadcv": "Unduh CV"
     },
     "aboutSection": {
-        "abouttitle": "Pemecah Masalah <Kode />",
-        "aboutdesc": "Seorang pengembang Full-Stack indie dengan pengalaman lebih dari 3 tahun.",
-        "aboutp1": "Halo, saya Rifki Maulana, lulusan jurusan IPA dari SMA Negeri 1 Jalaksana dengan latar belakang kuat dalam pemrograman dan komputasi.",
-        "aboutp2": "Kemampuan saya dalam matematika telah secara signifikan mempercepat proses pembelajaran saya dalam pemrograman komputer, terutama dalam teknologi MERN (MongoDB, Express.js, React, Node.js).",
-        "aboutp3": "Saya menikmati terus belajar teknologi baru dan tetap update dengan tren industri. Saya berkembang dalam lingkungan tim, percaya bahwa kolaborasi menghasilkan inovasi, namun saya juga memiliki kemampuan untuk bekerja secara efektif secara mandiri.",
-        "aboutp4": "Dengan passion untuk pertumbuhan berkelanjutan dan berkontribusi dalam industri teknologi, saya siap menghadapi tantangan baru dalam pengembangan perangkat lunak."
+        "abouttitle": "Pemecah Masalah <Code />",
+        "aboutdesc": "Seorang developer Full-Stack independen dengan lebih dari 3 tahun pengalaman.",
+        "aboutp1": "Halo, saya Fauzan Salam Mutaqin, seorang siswa dari SMAN 81 Jakarta yang memiliki minat bakat kuat dalam bidang bug hunting dan pemrograman.",
+        "aboutp2": "Keahlian saya terutama di bidang coding, MongoDB, MySQL.",
+        "aboutp3": "Saya senang terus mempelajari teknologi baru dan mengikuti tren industri terkini. Saya berkembang dalam lingkungan tim, karena percaya bahwa kolaborasi mendorong inovasi, namun saya juga mampu bekerja secara efektif secara mandiri.",
+        "aboutp4": "Dengan semangat untuk terus berkembang dan berkontribusi di industri teknologi, saya siap menghadapi tantangan baru dalam pengembangan perangkat lunak."
     },
 
     "skillsSection": {
         "node": {
-            "desc": "Building advanced backend web applications using Node.js",
+            "desc": "Membangun aplikasi web backend tingkat lanjut menggunakan Node.js",
             "name": "Node JS"
         },
         "react": {
-            "desc": "Skills in building modern SPAs and web applications",
+            "desc": "Keterampilan dalam membangun SPA modern dan aplikasi web",
             "name": "React JS"
         },
         "next": {
-            "desc": "Fast server-side rendering, dynamic routing, and minimalistic code",
+            "desc": "Rendering sisi server yang cepat, routing dinamis, dan kode minimalis",
             "name": "Next JS"
         },
         "git": {
-            "desc": "DevOps tool for managing source code",
+            "desc": "Alat DevOps untuk mengelola kode sumber",
             "name": "Git"
         },
         "tailwind": {
-            "desc": "Versatile frontend CSS framework commonly used",
+            "desc": "Kerangka kerja CSS frontend yang serbaguna dan sering digunakan",
             "name": "Tailwind CSS"
         },
         "mongo": {
-            "desc": "Using MongoDB for scalable backend database management",
+            "desc": "Menggunakan MongoDB untuk manajemen basis data backend yang dapat diskalakan",
             "name": "Mongo DB"
         },
         "mysql": {
-            "desc": "Relational database management, building scalable applications",
-            "name": "My SQL"
+            "desc": "Manajemen basis data relasional, membangun aplikasi yang dapat diskalakan",
+            "name": "MySQL"
         },
         "firebase": {
-            "desc": "Building applications, databases, authentication, and cloud services",
+            "desc": "Membangun aplikasi, basis data, autentikasi, dan layanan cloud",
             "name": "Firebase"
         },
         "socketio": {
-            "desc": "Real-time communication, event management, organized connections, error handling",
+            "desc": "Komunikasi real-time, manajemen acara, koneksi terorganisir, penanganan kesalahan",
             "name": "Socket.io"
         }
     },
 
     "projectsSection": {
-        "title": "Proyek {Dev} Saya ",
-        "desc": "Dari Aplikasi Mobile hingga Website dan Permainan",
+        "title": "Proyek {Dev} Saya",
+        "desc": "Dari Aplikasi Mobile hingga Website",
         "projectdesc": {
-            "1": "Strange Bird adalah game indie menarik yang dikembangkan menggunakan Godot Engine serbaguna dan GDScript yang ekspresif.",
-            "2": "Zenith AI Chatbot, didukung oleh React.js dan Groq SDK API, menghadirkan AI percakapan tingkat lanjut.",
-            "3": "Jelajahi pikiran mendalam tentang berbagai topik melalui platform blog kami yang dibangun dengan MERN Stack.",
-            "4": "Ebuxs adalah situs perpustakaan buku online tempat Anda dapat menulis dan mengunggah buku Anda, serta membaca buku sesuka Anda"
+            "1": "Simulasi kredit menggunakan bahasa pemrograman PHP, untuk menghitung jumlah anuitas, flat, dan efektif, 90% akurat.",
+            "2": "Kelas hacker adalah platform yang dibuat oleh departemen CDMS PIDAS81, yang bertujuan untuk melatih anggota CDMS tentang IT.",
+            "3": "E-learning CDMS dibuat dengan tujuan memudahkan anggota menyelesaikan tugas dan mengumpulkan tugas.",
+            "4": "Rekonstruksi website PIDAS81, untuk menjadi lebih keren tetapi masih dalam tahap pengembangan."
         },
         "projectTitle": {
-            "1": "Strange Bird",
-            "2": "Zenith AI Chatbot",
-            "3": "Thoughtlistblog",
-            "4": "Ebuxs"
+            "1": "Simulasi Kredit",
+            "2": "Platform Kelas Hacker",
+            "3": "E-learning CDMS",
+            "4": "PIDAS81"
         },
         "projectTech": {
-            "1": { "a": "Godot Engine", "b": "GD Script" },
-            "2": { "a": "Groq-sdk", "b": "React Js" },
-            "3": { "a": "Mongo DB", "b": "Express JS", "c": "React JS", "d": "Node JS" },
-            "4": "React JS"
+            "1": { "a": "PHP", "b": "Bootstrap" },
+            "2": { "a": "PHP", "b": "MySQL" },
+            "3": { "a": "MySQL", "b": "Laravel" },
+            "4": "CodeIgniter"
         },
-
-        "demobtn": "Lihat demo",
-        "repobtn": "Sumber Kode",
-        "seeallbtn": "Lihat semua proyek"
+        "demobtn": "Lihat Demo",
+        "repobtn": "Kode Sumber",
+        "seeallbtn": "Lihat Semua Proyek"
     },
     "contactSection": {
-        "title": "Ayo [Bekerja] Bersama",
-        "desc": "Mari Diskusikan dan Mulai Kontraknya.",
+        "title": "Mari [Bekerja] Bersama",
+        "desc": "Mari Diskusikan dan Mulai Kontrak.",
         "subjectplc": "Subjek",
         "nameplc": "Nama Anda",
         "emailplc": "Email",
@@ -98,24 +97,20 @@
         "sendbtn": "Kirim Email"
     },
     "footerSection": {
-        "name": "Rifki Maulana",
-        "footer": "Terima kasih telah mengunjungi situs web saya! Semoga Anda menikmati konten yang saya siapkan. Selamat menikmati dan jangan lupa berkunjung lagi!",
-        "cr": "Hak Cipta © 2024. Seluruh hak dilindungi.",
-
-        "email": "rifki.coding@gmail.com",
-        "address": "Kuningan, Jawa Barat"
+        "name": "Fauzan Salam M",
+        "footer": "Terima kasih telah mengunjungi situs web saya! Semoga Anda menikmati konten yang telah saya siapkan. Nikmati dan jangan lupa untuk berkunjung lagi!",
+        "cr": "Hak Cipta © 2024. Semua hak dilindungi.",
+        "email": "ojanxsec@gmail.com",
+        "address": "Jakarta, DKI Jakarta"
     },
     "utils": {
-        "404": "Tidak ada proyek yang cocok dengan kriteria pencarian Anda.",
-        "bckbtn": "Kembali ke Beranda",
-        "srch": "Cari berdasarkan judul atau teknologi...",
-        "500": {
-            "title": "Halaman ini sedang dalam perbaikan.",
-            "desc": "Kami bekerja keras untuk memberikan Anda pengalaman terbaik!"
-        },
+        "404": "Tidak ada proyek yang sesuai dengan kriteria pencarian Anda.",
+        "bckbtn": "Kembali ke beranda",
+        "srch": "Cari berdasarkan judul atau stack teknologi...",
+        "500": { "title": "Halaman ini sedang dalam pengembangan.", "desc": "Kami bekerja keras untuk memberikan Anda pengalaman terbaik!" },
         "notfound": {
             "title": "Halaman Tidak Ditemukan",
-            "desc": "Maaf, halaman yang Anda cari tidak ada. Silakan periksa URL-nya atau kembali ke beranda."
+            "desc": "Maaf, halaman yang Anda cari tidak ada. Silakan periksa URL atau kembali ke beranda."
         }
     }
 }
