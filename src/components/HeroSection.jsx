@@ -121,8 +121,8 @@ const HeroSection = ({ isDark, scrollToProjects }) => {
 
     const handleDownloadCV = () => {
         const downloadLink = document.createElement('a');
-        downloadLink.href = '1.jpg';
-        downloadLink.download = 'cv.jpg';
+        downloadLink.href = 'ojan-cv.png';
+        downloadLink.download = 'ojan-cv.png';
         downloadLink.click();
     };
 
