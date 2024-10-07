@@ -43,12 +43,12 @@ function AllProjects() {
             github: 'https://github.com/Kiisanz/Rifki-Blog',
         },
         {
-            img: '/projectImg/ebuxs.webp',
+            img: '/projectImg/kredit.webp',
             tech: [t('projectsSection.projectTech.4')],
             title: t('projectsSection.projectTitle.4'),
             desc: t('projectsSection.projectdesc.4'),
-            live_demo: '/notfound',
-            github: 'https://github.com/Kiisanz/ebuxs',
+            live_demo: 'https://kredit.ojaan.id',
+            github: '/notfound',
         },
     ];
 
