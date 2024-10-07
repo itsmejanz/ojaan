@@ -1,100 +1,116 @@
 {
     "navigation": {
-        "home": "Beranda",
-        "about": "Ngeunaan abdi",
+        "home": "Home",
+        "about": "Tentang Abdi",
         "projects": "Proyék",
         "blog": "Blog",
-        "getInTouch": "Kontak Kuring",
-        "brand": "./rifkimaulana"
+        "getInTouch": "Kontak Abdi",
+        "brand": "./ojaan"
     },
     "heroSection": {
-        "intro": "Spésialisasi dina tumpukan MERN. Kuring ngungkit téknologi pang anyarna pikeun ngahirupkeun proyék wéb.",
+        "HeroText": "PANGEMBANG FULL-STACK.",
         "tech": "{ Node JS, Tailwind CSS, NextJS, MongoDB, ReactJS, MySQL... }",
-        "seeMyWorksBtn": "Tingali karya kuring",
+        "intro": "Husus dina MERN Stack. Abdi ngagunakeun téknologi paling anyar pikeun ngawujudkeun proyék web.",
+        "seeMyWorksBtn": "Tingali karya abdi",
         "downloadcv": "Unduh CV"
     },
     "aboutSection": {
-        "abouttitle": "Ngaréngsékeun masalah <Kode />",
-        "aboutdesc": "Pamekar Full-Stack indie anu geus ngadegkeun pengalaman langkung ti 3 taun.",
-        "aboutp1": "Halo, abdi téh Rifki Maulana, lulusan jurusan IPA ti SMA Negeri 1 Jalaksana anu gaduh latar bélakang nu kuat dina programming jeung komputasi.",
-        "aboutp2": "Kapanggeh abdi dina matématis geus ngahareupan prosés panalungtikan abdi dina programming komputer, hususna dina téknologi MERN (MongoDB, Express.js, React, Node.js).",
-        "aboutp3": "Abdi nyenengkeun pangajaran téhnologi anyar terus jeung ngarujukan jeung tren industri. Abdi nyandak dina lingkungan tim, nangtukeun kalaborasi méré inovasi, tapi abdi ogé gaduh kénging pikeun nglaksanakeun efektifana énggal kudu.",
-        "aboutp4": "Kalawan passion pikeun pangembangan terus jeung ngahasilkeun industri téknologi, abdi parantos siap pikeun nglawan tantangan anyar dina pangembangan piranti lunak."
+        "abouttitle": "Pemecah Masalah <Code />",
+        "aboutdesc": "Hiji pangembang Full-Stack mandiri kalayan langkung ti 3 taun pangalaman.",
+        "aboutp1": "Halo, abdi Fauzan Salam Mutaqin, siswa ti SMAN 81 Jakarta anu mibanda minat bakat anu kuat dina widang bug hunting sareng pemrograman.",
+        "aboutp2": "Kaahlian abdi utamina di widang coding, MongoDB, MySQL.",
+        "aboutp3": "Abdi resep terus diajar téknologi anyar sareng tetep ngapdet sareng tren industri terkini. Abdi berkembang di lingkungan tim, percanten yén kolaborasi ngamajukeun inovasi, tapi abdi ogé sanggup damel mandiri kalayan efektif.",
+        "aboutp4": "Kalayan semangat pikeun terus berkembang sareng nyumbang dina industri téknologi, abdi siap nyanghareupan tantangan anyar dina ngembangkeun software."
     },
+
     "skillsSection": {
         "node": {
-            "desc": "Ngawangun pengetahuan Node.js anu kuat sareng ngembangkeun aplikasi web backend tingkat lanjut",
+            "desc": "Ngawangun aplikasi web backend tingkat lanjut maké Node.js",
             "name": "Node JS"
         },
-        "react": { "desc": "Keahlian dina ngawangun SPA modérn sareng aplikasi web", "name": "React JS" },
-        "next": { "desc": "Rendering server-side nu cepét, routing dinamis, jeung kode anu langkung sedikit", "name": "Next JS" },
-        "git": { "desc": "Alat DevOps pikeun ngatur manajemén kode sumber singkat", "name": "Git" },
-        "tailwind": { "desc": "Framewok CSS frontend anu utilitas-utama jeung sering digunakeun", "name": "Tailwind CSS" },
+        "react": {
+            "desc": "Kaahlian dina ngawangun SPA modern sareng aplikasi web",
+            "name": "React JS"
+        },
+        "next": {
+            "desc": "Rendering server-side anu gancang, routing dinamis, sareng kode minimalis",
+            "name": "Next JS"
+        },
+        "git": {
+            "desc": "Alat DevOps pikeun ngatur kode sumber",
+            "name": "Git"
+        },
+        "tailwind": {
+            "desc": "Kerangka CSS frontend anu fleksibel sareng sering dianggo",
+            "name": "Tailwind CSS"
+        },
         "mongo": {
-            "desc": "Ngagunakeun MongoDB pikeun pangolah basis data anu bisa diskalakeun dina backend",
+            "desc": "Ngagunakeun MongoDB pikeun manajemen basis data backend anu tiasa diukur",
             "name": "Mongo DB"
         },
-        "mysql": { "desc": "Manajemén basis data relasional, ngawangun aplikasi anu bisa diskalakeun", "name": "My SQL" },
-        "firebase": { "desc": "Ngawangun aplikasi jeung basis data, otentikasi, sareng layanan cloud", "name": "Firebase" },
+        "mysql": {
+            "desc": "Manajemén basis data relasional, ngawangun aplikasi anu scalable",
+            "name": "MySQL"
+        },
+        "firebase": {
+            "desc": "Ngawangun aplikasi, basis data, oténtikasi, sareng layanan cloud",
+            "name": "Firebase"
+        },
         "socketio": {
-            "desc": "Komunikasi real-time, manajemén acara, koneksi terorganisir, penanganan kasalahan",
+            "desc": "Komunikasi real-time, manajemén acara, sambungan teratur, sareng nanganan kasalahan",
             "name": "Socket.io"
         }
     },
+
     "projectsSection": {
-        "title": "Proyék {Dev} Kuring",
-        "desc": "Ti Aplikasi Ponsél ka Wébsit jeung Game",
+        "title": "Proyék {Dev} Abdi",
+        "desc": "Tina Aplikasi Mobile nepi ka Website",
         "projectdesc": {
-            "1": "Strange Bird nyaéta game indie anu menarik anu dikembangkeun nganggo Godot Engine anu serba guna jeung GDScript anu ekspresif.",
-            "2": "Zenith AI Chatbot, didukung ku React.js jeung Groq SDK API, nyadiakeun AI percakapan tingkat luhur.",
-            "3": "Jélajah pikiran méndém tentang topik-topik anu beragam lewat platform blog urang anu dibangun nganggo MERN Stack.",
-            "4": "Ebuxs mangrupikeun situs wéb perpustakaan buku online dimana anjeun tiasa nyerat sareng unggah buku anjeun, sareng maca buku anu anjeun pikahoyong"
+            "1": "Simulasi kredit ngagunakeun basa pamrograman PHP, pikeun ngitung jumlah anuitas, flat, sareng éféktif, 90% akurat.",
+            "2": "Kelas hacker nyaéta platform anu dijieun ku departemen CDMS PIDAS81, anu tujuanana pikeun ngalatih anggota CDMS ngeunaan IT.",
+            "3": "E-learning CDMS dijieun kalayan tujuan pikeun mempermudah anggota ngalengkepan tugas sareng ngirim tugas.",
+            "4": "Rekonstruksi website PIDAS81, supados leuwih keren tapi masih dina tahap pamekaran."
         },
         "projectTitle": {
-            "1": "Strange Bird",
-            "2": "Zenith AI Chatbot",
-            "3": "Thoughtlistblog",
-            "4": "Ebuxs"
+            "1": "Simulasi Kredit",
+            "2": "Platform Kelas Hacker",
+            "3": "E-learning CDMS",
+            "4": "PIDAS81"
         },
         "projectTech": {
-            "1": { "a": "Godot Engine", "b": "GD Script" },
-            "2": { "a": "Groq-sdk", "b": "React Js" },
-            "3": { "a": "Mongo DB", "b": "Express JS", "c": "React JS", "d": "Node JS" },
-            "4": "React JS"
+            "1": { "a": "PHP", "b": "Bootstrap" },
+            "2": { "a": "PHP", "b": "MySQL" },
+            "3": { "a": "MySQL", "b": "Laravel" },
+            "4": "CodeIgniter"
         },
         "demobtn": "Tingali Demo",
-        "repobtn": "Sumber Kode",
-        "seeallbtn": "Tingali Sakabéh Proyék"
+        "repobtn": "Kode Sumber",
+        "seeallbtn": "Tingali Sadaya Proyék"
     },
-
     "contactSection": {
-        "title": "Hayu urang [Gawé] bareng",
-        "desc": "Hayu urang bahas sareng ngamimitian kontrak",
-        "subjectplc": "Subyék",
-        "nameplc": "Ngaran Anjeun",
-        "emailplc": "Email Anjeun",
-        "msgplc": "Pesen Anjen",
-        "sendbtn": "Ngirim Email"
+        "title": "Hayu urang [Kerja] Bareng",
+        "desc": "Hayu urang diskusikeun sareng ngamimitian kontrak.",
+        "subjectplc": "Judul",
+        "nameplc": "Nami anjeun",
+        "emailplc": "Email",
+        "msgplc": "Lebetkeun pesen anjeun",
+        "sendbtn": "Kirim Email"
     },
     "footerSection": {
-        "name": "Rifki Maulana",
-        "footer": "Hatur nuhun pikeun ngadatangan ramatloka kuring! Miharep anjeun ngarasakeun eusi Kuring geus disiapkeun. Wilujeng sumping sareng tong hilap nganjang deui!",
-        "cr": "Copyright © 2024. Sadaya hak ditangtayungan.",
-
-        "email": "rifki.coding@gmail.com",
-        "address": "Kuningan, Jawa Barat"
+        "name": "Fauzan Salam M",
+        "footer": "Hatur nuhun parantos nganjang ka situs web abdi! Mugia anjeun resep kana eusi anu parantos abdi siapkan. Rasakeun sareng tong hilap kanggo nganjang deui!",
+        "cr": "Hak Cipta © 2024. Sadaya hak dilindungan.",
+        "email": "ojanxsec@gmail.com",
+        "address": "Jakarta, DKI Jakarta"
     },
     "utils": {
-        "404": "Teu aya proyék anu cocog sareng kriteria pamilarian anjeun.",
-        "bckbtn": "Balik ka beranda",
-        "srch": "Milarian dumasar judul atanapi téknologi...",
-        "500": {
-            "title": "Halaman ieu dina konstruksi.",
-            "desc": "Kami digawé teuas pikeun masihan anjeun pangalaman pangalusna!"
-        },
+        "404": "Teu aya proyék anu cocog sareng kriteria pilarian anjeun.",
+        "bckbtn": "Balik deui ka lembur",
+        "srch": "Pilarian dumasar judul atanapi téknologi...",
+        "500": { "title": "Halaman ieu keur diwangun.", "desc": "Kami damel keras pikeun masihan anjeun pangalaman anu pangsaéna!" },
         "notfound": {
             "title": "Halaman Teu Kapanggih",
-            "desc": "Hapunten, halaman nu dipilarian teu aya. Mangga parios URL atanapi balik deui ka halaman utama."
+            "desc": "Hapunten, halaman anu anjeun pilari teu aya. Punten pariksa URL atanapi balik deui ka beranda."
         }
     }
 }
