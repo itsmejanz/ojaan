@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import people from '../assets/orang.webp';
+import people from '../assets/ojan.webp';
 import { useTranslation } from 'react-i18next';
 
 export default function About() {
@@ -19,7 +19,7 @@ export default function About() {
                             {t('aboutSection.aboutp4')}
                         </div>
                         {/* Image */}
-                        <img src={people} alt='Logo Perusahaan' width='250' height='150' className='z-10' />
+                        <img src={people} alt='Ojan' width='250' height='150' className='z-10' />
                     </div>
                 </div>
             </div>
