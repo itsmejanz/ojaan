@@ -1,11 +1,52 @@
 [
     {
-        "img": "/projectImg/games.webp",
-        "tech": ["GD script", "Godot Engine"],
-        "title": "Strange Birds",
-        "desc": "Strange Bird is an engaging indie game developed using the versatile Godot Engine and expressive GDScript.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
+        "img": "/projectImg/kredit.webp",
+        "tech": ["PHP", "Bootstrap"],
+        "title": "Simulasi Kredit",
+        "desc": "Simulasi Kredit untuk menghitung anunitas, flat berbasis web.",
+        "live_demo": "https://kredit.ojaan.id/",
+        "github": "#"
+    },
+    {
+        "img": "/projectImg/heked.webp",
+        "tech": ["PHP", "Laravel"],
+        "title": "Kelas Hacker",
+        "desc": "By Departemen CDMS",
+        "live_demo": "https://kelashacker.xyz",
+        "github": "#"
+    },
+    {
+        "img": "/projectImg/cdms.webp",
+        "tech": ["PHP"],
+        "title": "E-LEARNING CDMS",
+        "desc": "Platform CDMS.",
+        "live_demo": "https://cdms.ojaan.id/",
+        "github": "#"
+    },
+    {
+    {
+        "img": "/projectImg/kredit.webp",
+        "tech": ["PHP", "Bootstrap"],
+        "title": "Simulasi Kredit",
+        "desc": "Simulasi Kredit untuk menghitung anunitas, flat berbasis web.",
+        "live_demo": "https://kredit.ojaan.id/",
+        "github": "#"
+    },
+    {
+        "img": "/projectImg/heked.webp",
+        "tech": ["PHP", "Laravel"],
+        "title": "Kelas Hacker",
+        "desc": "By Departemen CDMS",
+        "live_demo": "https://kelashacker.xyz",
+        "github": "#"
+    },
+    {
+        "img": "/projectImg/cdms.webp",
+        "tech": ["PHP"],
+        "title": "E-LEARNING CDMS",
+        "desc": "Platform CDMS.",
+        "live_demo": "https://cdms.ojaan.id/",
+        "github": "#"
     },
     {
         "img": "/projectImg/zenithAI.webp",
@@ -16,115 +57,51 @@
         "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
     },
     {
-        "img": "/projectImg/Blog.webp",
-        "tech": ["MERN Stack"],
-        "title": "Thoughtlist blog",
-        "desc": "Explore insightful musings on a variety of topics through our MERN stack-powered blog platform.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
+        "img": "/projectImg/kredit.webp",
+        "tech": ["PHP", "Bootstrap"],
+        "title": "Simulasi Kredit",
+        "desc": "Simulasi Kredit untuk menghitung anunitas, flat berbasis web.",
+        "live_demo": "https://kredit.ojaan.id/",
+        "github": "#"
     },
     {
-        "img": "/projectImg/games.webp",
-        "tech": ["GD script", "Godot Engine"],
-        "title": "Strange Birds",
-        "desc": "Strange Bird is an engaging indie game developed using the versatile Godot Engine and expressive GDScript.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
+        "img": "/projectImg/heked.webp",
+        "tech": ["PHP", "Laravel"],
+        "title": "Kelas Hacker",
+        "desc": "By Departemen CDMS",
+        "live_demo": "https://kelashacker.xyz",
+        "github": "#"
     },
     {
-        "img": "/projectImg/zenithAI.webp",
-        "tech": ["Groq-sdk", "ReactJS"],
-        "title": "ZenithAI Chatbot",
-        "desc": "Zenith AI Chatbot, powered by React.js and Groq SDK API, delivers advanced conversational AI.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
+        "img": "/projectImg/cdms.webp",
+        "tech": ["PHP"],
+        "title": "E-LEARNING CDMS",
+        "desc": "Platform CDMS.",
+        "live_demo": "https://cdms.ojaan.id/",
+        "github": "#"
     },
     {
-        "img": "/projectImg/Blog.webp",
-        "tech": ["MERN Stack", "ReactJS"],
-        "title": "Thoughtlist blog",
-        "desc": "Explore insightful musings on a variety of topics through our MERN stack-powered blog platform.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
+        "img": "/projectImg/kredit.webp",
+        "tech": ["PHP", "Bootstrap"],
+        "title": "Simulasi Kredit",
+        "desc": "Simulasi Kredit untuk menghitung anunitas, flat berbasis web.",
+        "live_demo": "https://kredit.ojaan.id/",
+        "github": "#"
     },
     {
-        "img": "/projectImg/games.webp",
-        "tech": ["GD script", "Godot Engine"],
-        "title": "Strange Birds",
-        "desc": "Strange Bird is an engaging indie game developed using the versatile Godot Engine and expressive GDScript.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
+        "img": "/projectImg/heked.webp",
+        "tech": ["PHP", "Laravel"],
+        "title": "Kelas Hacker",
+        "desc": "By Departemen CDMS",
+        "live_demo": "https://kelashacker.xyz",
+        "github": "#"
     },
     {
-        "img": "/projectImg/zenithAI.webp",
-        "tech": ["Groq-sdk", "ReactJS"],
-        "title": "ZenithAI Chatbot",
-        "desc": "Zenith AI Chatbot, powered by React.js and Groq SDK API, delivers advanced conversational AI.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/Blog.webp",
-        "tech": ["MERN Stack"],
-        "title": "Thoughtlist blog",
-        "desc": "Explore insightful musings on a variety of topics through our MERN stack-powered blog platform.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/games.webp",
-        "tech": ["GD script", "Godot Engine"],
-        "title": "Strange Birds",
-        "desc": "Strange Bird is an engaging indie game developed using the versatile Godot Engine and expressive GDScript.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/zenithAI.webp",
-        "tech": ["Groq-sdk", "ReactJS"],
-        "title": "ZenithAI Chatbot",
-        "desc": "Zenith AI Chatbot, powered by React.js and Groq SDK API, delivers advanced conversational AI.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/Blog.webp",
-        "tech": ["MERN Stack"],
-        "title": "Thoughtlist blog",
-        "desc": "Explore insightful musings on a variety of topics through our MERN stack-powered blog platform.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/Blog.webp",
-        "tech": ["MERN Stack"],
-        "title": "Thoughtlist blog",
-        "desc": "Explore insightful musings on a variety of topics through our MERN stack-powered blog platform.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/games.webp",
-        "tech": ["GD script", "Godot Engine"],
-        "title": "Strange Birds",
-        "desc": "Strange Bird is an engaging indie game developed using the versatile Godot Engine and expressive GDScript.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/zenithAI.webp",
-        "tech": ["Groq-sdk", "ReactJS"],
-        "title": "ZenithAI Chatbot",
-        "desc": "Zenith AI Chatbot, powered by React.js and Groq SDK API, delivers advanced conversational AI.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
-    },
-    {
-        "img": "/projectImg/Blog.webp",
-        "tech": ["MERN Stack"],
-        "title": "Thoughtlist blog",
-        "desc": "Explore insightful musings on a variety of topics through our MERN stack-powered blog platform.",
-        "live_demo": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY",
-        "github": "https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY"
+        "img": "/projectImg/cdms.webp",
+        "tech": ["PHP"],
+        "title": "E-LEARNING CDMS",
+        "desc": "Platform CDMS.",
+        "live_demo": "https://cdms.ojaan.id/",
+        "github": "#"
     }
 ]
