@@ -19,27 +19,27 @@ function AllProjects() {
 
     const projectsData = [
         {
-            img: '/projectImg/games.webp',
+            img: '/projectImg/heker.webp',
             tech: [t('projectsSection.projectTech.1.a'), t('projectsSection.projectTech.1.b')],
             title: t('projectsSection.projectTitle.1'),
             desc: t('projectsSection.projectdesc.1'),
-            live_demo: 'https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY',
-            github: 'https://rifki-devs.itch.io/strange-birds?secret=PULmvAgdCpzSM4hL5B8YjtY',
+            live_demo: 'https://kelashacker.xyz',
+            github: '#',
         },
         {
-            img: '/projectImg/zenithAI.webp',
+            img: '/projectImg/pidas.webp',
             tech: [t('projectsSection.projectTech.2.a'), t('projectsSection.projectTech.2.b')],
             title: t('projectsSection.projectTitle.2'),
             desc: t('projectsSection.projectdesc.2'),
-            live_demo: 'https://zenith-ai-self.vercel.app/',
-            github: 'https://gitlab.com/rifkidevs/zenithAIchat',
+            live_demo: 'https://me.ojaan.id',
+            github: '#',
         },
         {
-            img: '/projectImg/Blog.webp',
+            img: '/projectImg/cdms.webp',
             tech: [t('projectsSection.projectTech.3.a'), t('projectsSection.projectTech.3.b')],
             title: t('projectsSection.projectTitle.3'),
             desc: t('projectsSection.projectdesc.3'),
-            live_demo: '/notfound',
+            live_demo: 'https://cdms.ojaan.id',
             github: 'https://github.com/Kiisanz/Rifki-Blog',
         },
         {
