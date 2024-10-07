@@ -1,5 +1,5 @@
 /* eslint-disable react/prop-types */
-import people from '../assets/ojan.webp';
+import people from '../assets/ojn.webp';
 import { useTranslation } from 'react-i18next';
 
 export default function About() {
