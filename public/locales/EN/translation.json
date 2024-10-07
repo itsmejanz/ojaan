@@ -17,8 +17,8 @@
     "aboutSection": {
         "abouttitle": "Problem Solver <Code />",
         "aboutdesc": "An indie Full-Stack developer with over 3 years of experience.",
-        "aboutp1": "Hello, I'm Rifki Maulana, a graduate of the Science track from SMA Negeri 1 Jalaksana Highschool with a strong background in programming and computing.",
-        "aboutp2": "My proficiency in mathematics has significantly accelerated my learning process in computer programming, particularly in MERN technology (MongoDB, Express.js, React, Node.js).",
+        "aboutp1": "Hello, I'm Fauzan Salam Mutaqin, I'm a student from SMAN 81 Jakarta who has a strong talent interest in the field of bug hunting and programming.",
+        "aboutp2": "My expertise is mainly in the field of coding, Mongodb, MySQL.",
         "aboutp3": "I enjoy continuously learning new technologies and staying updated with industry trends. I thrive in team environments, believing collaboration fosters innovation, yet I also possess the ability to work effectively independently.",
         "aboutp4": "With a passion for ongoing growth and contributing to the tech industry, I'm ready to tackle new challenges in software development."
     },
@@ -64,24 +64,24 @@
 
     "projectsSection": {
         "title": "My {Dev} Projects",
-        "desc": "From Mobile Apps to Websites and Games",
+        "desc": "From Mobile Apps to Websites",
         "projectdesc": {
-            "1": "Strange Bird is an intriguing indie game developed using the versatile Godot Engine and expressive GDScript.",
-            "2": "Zenith AI Chatbot, powered by React.js and Groq SDK API, delivers advanced conversational AI.",
-            "3": "Explore deep thoughts on various topics through our blog platform built with the MERN Stack.",
-            "4": "Ebuxs is an online book library website where you can write and upload your books, and read books as you please"
+            "1": "Credit simulation uses the PHP programming language, to calculate the annuity amount, flat and effective, 90% accurate.",
+            "2": "The hacker class is a platform created by the PIDAS81 CDMS department, which aims to train CDMS members about IT.",
+            "3": "CDMS e-learning was created with the aim of making it easier for members to complete assignments and submit assignments.",
+            "4": "reconstruction of the PIDAS81 website, to be cooler but still in the development stage."
         },
         "projectTitle": {
-            "1": "Strange Bird",
-            "2": "Zenith AI Chatbot",
-            "3": "Thoughtlistblog",
-            "4": "Ebuxs"
+            "1": "Credit Simulation",
+            "2": "Platform Kelas Hacker",
+            "3": "E-learning CDMS",
+            "4": "PIDAS81"
         },
         "projectTech": {
-            "1": { "a": "Godot Engine", "b": "GD Script" },
-            "2": { "a": "Groq-sdk", "b": "React Js" },
+            "1": { "a": "PHP", "b": "Bootstrap" },
+            "2": { "a": "PHP", "b": "MySQL" },
             "3": { "a": "My SQL", "b": "Laravel" },
-            "4": "React JS"
+            "4": "Codeniter"
         },
         "demobtn": "View Demo",
         "repobtn": "Source Code",
@@ -100,8 +100,8 @@
         "name": "Rifki Maulana",
         "footer": "Thank you for visiting my website! Hope you enjoy the content I have prepared. Enjoy and don't forget to visit again!",
         "cr": "Copyright © 2024. All rights reserved.",
-        "email": "rifki.coding@gmail.com",
-        "address": "Kunigan, West Java"
+        "email": "ojanxsec@gmail.com",
+        "address": "Jakarta, DKI Jakarta"
     },
     "utils": {
         "404": "No projects match your search criteria.",
