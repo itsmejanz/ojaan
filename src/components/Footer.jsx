@@ -38,7 +38,7 @@ export default function Footer() {
                     </a>
                     <a
                         className='hover:text-secondary transition-all duration-300 ease-linear'
-                        href='https://www.linkedin.com/in/mochamad-rifki-maulana-1ab5a630a/'
+                        href='https://www.linkedin.com/in/fauzansalammutaqin'
                         target='_blank'
                         rel='noopener noreferrer'>
                         <IconBrandLinkedin size={26} stroke={1} />
